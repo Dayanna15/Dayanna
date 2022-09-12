@@ -1,0 +1,46 @@
+*{
+    background-color: rgb(175, 241, 219);
+    text-align: center;
+
+}
+h1{
+    color: rgb(4, 109, 109);
+    font-size: 4rem;
+    font-family: cursive;
+    text-align:center ;
+}
+p{
+    color: rgb(118, 246, 246);
+    font-size: 2rem;
+    font-family: cursive;
+    background-color: rgb(2, 71, 71);
+    text-align: left;
+
+}
+div{
+    background-color: rgb(2, 71, 71);
+    font-family: cursive; color: rgb(118, 246, 246);
+    font-family: cursive;
+    font-size: 1rem;
+    margin: 2rem;
+}
+button{
+    margin: 1rem;
+    background-color: rgb(2, 71, 71);
+    font-family: cursive; color: rgb(118, 246, 246);
+}
+#cantidaddelineas{
+    background-color: rgb(2, 71, 71);
+    font-family: cursive; color: rgb(118, 246, 246);
+}
+
+#cantidaddelineas::placeholder{
+    background-color: rgb(2, 71, 71);
+    font-family: cursive; color: rgb(118, 246, 246);
+}
+ canvas{
+    background-color: aliceblue;
+    border: black;
+    border-width: 3px;
+    border-style: solid;
+ }
